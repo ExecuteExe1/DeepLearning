@@ -1,0 +1,389 @@
+[
+  {
+    "filename": "13.png",
+    "true_class": 13,
+    "true_class_name": "Yield",
+    "predicted_class": 13,
+    "predicted_class_name": "Yield",
+    "confidence": 0.8150136422030583,
+    "correct": true
+  },
+  {
+    "filename": "22.png",
+    "true_class": 22,
+    "true_class_name": "Bumpy road",
+    "predicted_class": 9,
+    "predicted_class_name": "No passing",
+    "confidence": 0.15884176720662377,
+    "correct": false
+  },
+  {
+    "filename": "27.png",
+    "true_class": 27,
+    "true_class_name": "Pedestrians",
+    "predicted_class": 2,
+    "predicted_class_name": "50 km/h",
+    "confidence": 0.0879313169043749,
+    "correct": false
+  },
+  {
+    "filename": "35.png",
+    "true_class": 35,
+    "true_class_name": "Ahead only",
+    "predicted_class": 35,
+    "predicted_class_name": "Ahead only",
+    "confidence": 0.9936397453311449,
+    "correct": true
+  },
+  {
+    "filename": "31.png",
+    "true_class": 31,
+    "true_class_name": "Animals",
+    "predicted_class": 1,
+    "predicted_class_name": "30 km/h",
+    "confidence": 0.07504400811642098,
+    "correct": false
+  },
+  {
+    "filename": "39.png",
+    "true_class": 39,
+    "true_class_name": "Keep left",
+    "predicted_class": 39,
+    "predicted_class_name": "Keep left",
+    "confidence": 0.9419516219127362,
+    "correct": true
+  },
+  {
+    "filename": "34.png",
+    "true_class": 34,
+    "true_class_name": "Turn left",
+    "predicted_class": 34,
+    "predicted_class_name": "Turn left",
+    "confidence": 0.9465510514933922,
+    "correct": true
+  },
+  {
+    "filename": "33.png",
+    "true_class": 33,
+    "true_class_name": "Turn right",
+    "predicted_class": 33,
+    "predicted_class_name": "Turn right",
+    "confidence": 0.3300914324030707,
+    "correct": true
+  },
+  {
+    "filename": "21.png",
+    "true_class": 21,
+    "true_class_name": "Double curve",
+    "predicted_class": 1,
+    "predicted_class_name": "30 km/h",
+    "confidence": 0.08259042644401186,
+    "correct": false
+  },
+  {
+    "filename": "19.png",
+    "true_class": 19,
+    "true_class_name": "Curve left",
+    "predicted_class": 1,
+    "predicted_class_name": "30 km/h",
+    "confidence": 0.08273948697782008,
+    "correct": false
+  },
+  {
+    "filename": "25.png",
+    "true_class": 25,
+    "true_class_name": "Road work",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.054545645292742376,
+    "correct": false
+  },
+  {
+    "filename": "7.png",
+    "true_class": 7,
+    "true_class_name": "100 km/h",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.06351078695623344,
+    "correct": false
+  },
+  {
+    "filename": "11.png",
+    "true_class": 11,
+    "true_class_name": "Right-of-way",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.05959999722380179,
+    "correct": false
+  },
+  {
+    "filename": "8.png",
+    "true_class": 8,
+    "true_class_name": "120 km/h",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.05180977686603845,
+    "correct": false
+  },
+  {
+    "filename": "5.png",
+    "true_class": 5,
+    "true_class_name": "80 km/h",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.03027400412492792,
+    "correct": false
+  },
+  {
+    "filename": "3.png",
+    "true_class": 3,
+    "true_class_name": "60 km/h",
+    "predicted_class": 38,
+    "predicted_class_name": "Keep right",
+    "confidence": 0.03819878739948934,
+    "correct": false
+  },
+  {
+    "filename": "16.png",
+    "true_class": 16,
+    "true_class_name": "No trucks",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.06482302125438084,
+    "correct": false
+  },
+  {
+    "filename": "0.png",
+    "true_class": 0,
+    "true_class_name": "20 km/h",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.030225413078941558,
+    "correct": false
+  },
+  {
+    "filename": "1.png",
+    "true_class": 1,
+    "true_class_name": "30 km/h",
+    "predicted_class": 38,
+    "predicted_class_name": "Keep right",
+    "confidence": 0.03331841923517521,
+    "correct": false
+  },
+  {
+    "filename": "9.png",
+    "true_class": 9,
+    "true_class_name": "No passing",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.042475673362110555,
+    "correct": false
+  },
+  {
+    "filename": "40.png",
+    "true_class": 40,
+    "true_class_name": "Roundabout",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.03964446772323882,
+    "correct": false
+  },
+  {
+    "filename": "17.png",
+    "true_class": 17,
+    "true_class_name": "No entry",
+    "predicted_class": 17,
+    "predicted_class_name": "No entry",
+    "confidence": 0.32278482082056653,
+    "correct": true
+  },
+  {
+    "filename": "38.png",
+    "true_class": 38,
+    "true_class_name": "Keep right",
+    "predicted_class": 38,
+    "predicted_class_name": "Keep right",
+    "confidence": 0.987792192432122,
+    "correct": true
+  },
+  {
+    "filename": "32.png",
+    "true_class": 32,
+    "true_class_name": "End limits",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.04830020183207867,
+    "correct": false
+  },
+  {
+    "filename": "15.png",
+    "true_class": 15,
+    "true_class_name": "No vehicles",
+    "predicted_class": 38,
+    "predicted_class_name": "Keep right",
+    "confidence": 0.16206313844599798,
+    "correct": false
+  },
+  {
+    "filename": "10.png",
+    "true_class": 10,
+    "true_class_name": "No trucks",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.05730505886059459,
+    "correct": false
+  },
+  {
+    "filename": "37.png",
+    "true_class": 37,
+    "true_class_name": "Straight/left",
+    "predicted_class": 39,
+    "predicted_class_name": "Keep left",
+    "confidence": 0.5498412641075703,
+    "correct": false
+  },
+  {
+    "filename": "4.png",
+    "true_class": 4,
+    "true_class_name": "70 km/h",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.029621709709691444,
+    "correct": false
+  },
+  {
+    "filename": "28.png",
+    "true_class": 28,
+    "true_class_name": "Children",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.05096407040474721,
+    "correct": false
+  },
+  {
+    "filename": "23.png",
+    "true_class": 23,
+    "true_class_name": "Slippery",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.054009348159166325,
+    "correct": false
+  },
+  {
+    "filename": "2.png",
+    "true_class": 2,
+    "true_class_name": "50 km/h",
+    "predicted_class": 38,
+    "predicted_class_name": "Keep right",
+    "confidence": 0.03403553574436005,
+    "correct": false
+  },
+  {
+    "filename": "18.png",
+    "true_class": 18,
+    "true_class_name": "Caution",
+    "predicted_class": 18,
+    "predicted_class_name": "Caution",
+    "confidence": 0.07530082228608614,
+    "correct": true
+  },
+  {
+    "filename": "12.png",
+    "true_class": 12,
+    "true_class_name": "Priority road",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.07469707782107034,
+    "correct": true
+  },
+  {
+    "filename": "26.png",
+    "true_class": 26,
+    "true_class_name": "Traffic light",
+    "predicted_class": 18,
+    "predicted_class_name": "Caution",
+    "confidence": 0.060967104422278526,
+    "correct": false
+  },
+  {
+    "filename": "30.png",
+    "true_class": 30,
+    "true_class_name": "Ice/snow",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.06603628784709765,
+    "correct": false
+  },
+  {
+    "filename": "6.png",
+    "true_class": 6,
+    "true_class_name": "End 80",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.0374524733752458,
+    "correct": false
+  },
+  {
+    "filename": "24.png",
+    "true_class": 24,
+    "true_class_name": "Narrows right",
+    "predicted_class": 1,
+    "predicted_class_name": "30 km/h",
+    "confidence": 0.11106906363706906,
+    "correct": false
+  },
+  {
+    "filename": "41.png",
+    "true_class": 41,
+    "true_class_name": "End no passing",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.06167797969569219,
+    "correct": false
+  },
+  {
+    "filename": "29.png",
+    "true_class": 29,
+    "true_class_name": "Bicycles",
+    "predicted_class": 1,
+    "predicted_class_name": "30 km/h",
+    "confidence": 0.07162070550099196,
+    "correct": false
+  },
+  {
+    "filename": "20.png",
+    "true_class": 20,
+    "true_class_name": "Curve right",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.03970453087986366,
+    "correct": false
+  },
+  {
+    "filename": "14.png",
+    "true_class": 14,
+    "true_class_name": "Stop",
+    "predicted_class": 14,
+    "predicted_class_name": "Stop",
+    "confidence": 0.9321382380544693,
+    "correct": true
+  },
+  {
+    "filename": "42.png",
+    "true_class": 42,
+    "true_class_name": "End no trucks",
+    "predicted_class": 12,
+    "predicted_class_name": "Priority road",
+    "confidence": 0.05204045401919278,
+    "correct": false
+  },
+  {
+    "filename": "36.png",
+    "true_class": 36,
+    "true_class_name": "Straight/right",
+    "predicted_class": 38,
+    "predicted_class_name": "Keep right",
+    "confidence": 0.33584939486028,
+    "correct": false
+  }
+]

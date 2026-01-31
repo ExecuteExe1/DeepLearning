@@ -1,0 +1,82 @@
+{
+  "dataset_info": {
+    "name": "GTSRB - German Traffic Sign Recognition Benchmark",
+    "training_samples": 18820,
+    "validation_samples": 4705,
+    "test_samples": 15684,
+    "total_samples": 39209,
+    "num_classes": 43,
+    "class_names": {
+      "0": "20 km/h",
+      "1": "30 km/h",
+      "2": "50 km/h",
+      "3": "60 km/h",
+      "4": "70 km/h",
+      "5": "80 km/h",
+      "6": "End 80",
+      "7": "100 km/h",
+      "8": "120 km/h",
+      "9": "No passing",
+      "10": "No trucks",
+      "11": "Right-of-way",
+      "12": "Priority road",
+      "13": "Yield",
+      "14": "Stop",
+      "15": "No vehicles",
+      "16": "No trucks",
+      "17": "No entry",
+      "18": "Caution",
+      "19": "Curve left",
+      "20": "Curve right",
+      "21": "Double curve",
+      "22": "Bumpy road",
+      "23": "Slippery",
+      "24": "Narrows right",
+      "25": "Road work",
+      "26": "Traffic light",
+      "27": "Pedestrians",
+      "28": "Children",
+      "29": "Bicycles",
+      "30": "Ice/snow",
+      "31": "Animals",
+      "32": "End limits",
+      "33": "Turn right",
+      "34": "Turn left",
+      "35": "Ahead only",
+      "36": "Straight/right",
+      "37": "Straight/left",
+      "38": "Keep right",
+      "39": "Keep left",
+      "40": "Roundabout",
+      "41": "End no passing",
+      "42": "End no trucks"
+    },
+    "pca_reduction": "3072 \u2192 44 features",
+    "variance_preserved": 0.9008656740188599
+  },
+  "svm_results": {
+    "linear": {
+      "test_accuracy": 0.8302728895689875,
+      "validation_accuracy": 0.8386822529224229,
+      "training_time": 240.29972314834595
+    },
+    "rbf": {
+      "test_accuracy": 0.7263453200714104,
+      "validation_accuracy": 0.7247608926673751,
+      "training_time": 66.83083128929138
+    },
+    "poly": {
+      "test_accuracy": 0.5240372353991328,
+      "validation_accuracy": 0.5168969181721573,
+      "training_time": 65.05531716346741
+    }
+  },
+  "best_model": {
+    "name": "SVM_linear",
+    "test_accuracy": 0.8302728895689875
+  },
+  "meta_testing": {
+    "total_images": 43,
+    "accuracy": 0.23255813953488372
+  }
+}
